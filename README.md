@@ -1,3 +1,8 @@
+# About this project
+
+This project is built around react and firebase to depict the simple CRUD functionality.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
